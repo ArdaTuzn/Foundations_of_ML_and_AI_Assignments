@@ -1,0 +1,8 @@
+.DS_Store
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+Foundations_of_ML_and_AI_Assignments/
+*.csv
+*.pdf
+*.parquet
